@@ -1,7 +1,30 @@
 {
-  "private": true,
+  "name": "todo-list-alpine",
+  "version": "1.0.0",
+  "description": "Simple todo list app using alpine",
+  "main": "index.html",
   "dependencies": {
-    "todomvc-app-css": "^2.0.0",
-    "todomvc-common": "^1.0.0"
-  }
+    "todomvc-app-css": "^2.4.2",
+    "todomvc-common": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haddadzineddine/todomvc-alpine.git"
+  },
+  "keywords": [
+    "alpine",
+    "js",
+    "todo",
+    "list"
+  ],
+  "author": "haddad zineddine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haddadzineddine/todomvc-alpine/issues"
+  },
+  "homepage": "https://github.com/haddadzineddine/todomvc-alpine#readme"
 }
